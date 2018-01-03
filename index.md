@@ -1,0 +1,3 @@
+## Github Pagesのデフォルトテーマをローカル上で簡単に確認出来るようにする
+
+github-pages gemをインストールすることでJekyllとGithub Pagesがサポートするテーマをまとめてインストール出来ます。
